@@ -1,0 +1,92 @@
+body { 
+    background-color: #738063;
+}
+.logo {
+    height: 102px;
+    float: right;
+    padding-right: 30px;
+  }
+nav a {
+    font-size: 18px;
+    text-align: left; 
+    color: #DFCFD2;
+    text-decoration: none;
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-SemiBold.ttf);
+}
+nav{
+    padding-top: 47px;
+    padding-left: 161px;
+    word-spacing: 55px;
+    font-family: Montserrat;
+}
+.line{
+    position: absolute;
+    left: 30px;
+    right: 30px;
+}
+
+@font-face {
+    font-family: MontMedium;
+    src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-Medium.ttf);
+}
+.P1 {
+    position: absolute;
+    text-align: center;
+    color: #DFCFD2;
+    top: 307px; 
+    left: 800px;
+    font-family: MontMedium;
+    font-size: 18px;
+}
+
+@font-face {
+    font-family:Gloria;
+    src: url(/Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf);
+}
+
+.P2{
+    position: absolute;
+    text-align: center;
+    color: #DFCFD2;
+    top: 426px; 
+    left: 900px;
+    font-family: Gloria;
+    font-size: 35px;
+}
+.divider{
+    position: absolute;
+    width: 55%;
+    top: 515px;
+    right: 30px;
+}
+.button a { 
+    position: absolute;
+    top: 800px;
+    right: 45%;
+    color: black;
+    font-family: Gloria;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius: 20px;
+    background: #BCC5B2; 
+    width: 200px;
+    height: 60px; 
+}
+.button{
+    text-align: center;  
+}
+
+.footer{
+    position: absolute;
+    left: 30px;
+    top: 1200px;
+    right: 30px;
+    font-family: Montserrat;
+    color: #DFCFD2;
+}
+.footer1{
+    padding-left:54px;
+}
