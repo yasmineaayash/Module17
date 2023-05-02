@@ -11,11 +11,13 @@ nav a {
     text-align: left; 
     color: #DFCFD2;
     text-decoration: none;
+    font-family: 'Montserrat';
+    font-weight: 400;
 }
-@font-face {
+/* @font-face {
     font-family: Montserrat;
-    src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-SemiBold.ttf);
-}
+    /* src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-SemiBold.ttf); */
+
 nav{
     padding-top: 47px;
     padding-left: 161px;
@@ -28,24 +30,25 @@ nav{
     right: 30px;
 }
 
-@font-face {
+/* @font-face {
     font-family: MontMedium;
-    src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-Medium.ttf);
-}
+
+    /* src: url(/Fonts/Montserrat\ \(1\)/static/Montserrat-Medium.ttf); */
+
 .P1 {
     position: absolute;
     text-align: center;
     color: #DFCFD2;
     top: 307px; 
     left: 800px;
-    font-family: MontMedium;
+    font-family: 'Montserrat';
+    font-weight: 400;
     font-size: 18px;
 }
 
-@font-face {
+/* @font-face {
     font-family:Gloria;
-    src: url(/Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf);
-}
+    src: url(/Fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf); */
 
 .P2{
     position: absolute;
@@ -53,7 +56,8 @@ nav{
     color: #DFCFD2;
     top: 426px; 
     left: 900px;
-    font-family: Gloria;
+    font-family: 'Gloria';
+    font-weight:400;
     font-size: 35px;
 }
 .divider{
@@ -84,7 +88,8 @@ nav{
     left: 30px;
     top: 1200px;
     right: 30px;
-    font-family: Montserrat;
+    font-family: 'Montserrat';
+    font-weight: 400;
     color: #DFCFD2;
 }
 .footer1{
