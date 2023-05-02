@@ -56,7 +56,7 @@ nav{
     color: #DFCFD2;
     top: 426px; 
     left: 900px;
-    font-family: 'Gloria';
+    font-family: 'Gloria Hallelujah';
     font-weight:400;
     font-size: 35px;
 }
@@ -71,7 +71,8 @@ nav{
     top: 800px;
     right: 45%;
     color: black;
-    font-family: Gloria;
+    font-family: 'Gloria Hallelujah';
+    font-weight: 400;
     text-decoration: none;
     font-size: 30px;
     border-radius: 20px;
